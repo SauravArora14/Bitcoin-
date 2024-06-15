@@ -8,7 +8,7 @@ const Home = () => {
     <Box bgColor={"blackAlpha.900"} w={"full"} h={"85vh"}>
       <motion.div
         style={{
-          height: "60vh",
+          height: "75vh",
         }}
         animate={{
           translateY: "20px",
